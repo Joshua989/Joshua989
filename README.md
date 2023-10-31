@@ -2,7 +2,7 @@
 
 Hello there! I'm [Joshua], a passionate frontend developer with a flair for creating visually appealing and user-friendly web applications. I specialize in crafting intuitive and responsive user interfaces that provide seamless user experiences.
 
-![Frontend Development](https://example.com/frontend-development-image.jpg)
+![Frontend Development](https://pin.it/1iowqbI)
 
 ## 🚀 About Me
 I am a dedicated frontend developer with [3] years of experience in the field. My expertise includes HTML, CSS, JavaScript, and popular frontend frameworks like React and Vue.js. I thrive on challenges and am constantly exploring new technologies and tools to enhance my skills.
