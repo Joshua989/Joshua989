@@ -23,7 +23,6 @@
 - 🌐 Check out my portfolio: [My Portfolio](https://webbo3-0-w2w7.vercel.app/)
 - 👨‍💻 Competitive programmer at `CJ-BYTE`
 - 📚 Always learning new technologies in the blockchain space
-- 💼 Currently open for new `job opportunities`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)
 
 <br>
 
