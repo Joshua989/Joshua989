@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web3+Developer;Smart+Contract+Developer;Computer+Science+Graduate;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web3+Developer;Frontend+Engineer;Smart+Contract+Developer;Computer+Science+Graduate;Always+learning+new+things"></a>
 </p>
 
 <br>
@@ -14,40 +14,48 @@
 
 - 🎓 **Computer Science Graduate** from *Adekunle Ajasin University*
 - 🎯 **ALX Software Engineering Finalist**
-- 👨🏽‍💻 **Web3 & Smart Contract Developer** specializing in building secure and scalable DApps
-- 🌍 Passionate about **Blockchain, Ethereum, and decentralized technology**
-- 🛠️ Skilled in **Solidity**, **React**, **JavaScript**, **Python**, and **Hardhat**
-- 📚 Constantly learning and exploring innovative blockchain solutions
-- 🌐 **Portfolio**: [Click here to explore](https://webbo3-0-w2w7.vercel.app/)
+- 👨🏽‍💻 Passionate Fullstack Engineer working across **Web2** and **Web3** ecosystems
+- 💻 Built production-ready Web2 apps using **JavaScript**, **React**, **Tailwind**, and **Node.js**
+- ⛓️ Developed and deployed secure Smart Contracts using **Solidity**, **Hardhat**, and **Truffle**
+- 🌍 Advocating for decentralized technology while improving user experiences on the web
+- 🌐 **Portfolio**: [Click to View](https://webbo3-0-w2w7.vercel.app/)
+- 📚 Constant learner, diving into emerging tools, tech, and frameworks
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Web2 Project Highlights
 
-### 🔹 **DappPay**
-> Decentralized payment gateway for merchants.
-- Built with **Solidity**, **Web3.js**, **Hardhat**, and **React**
-- Users can pay with Ethereum or stablecoins
-- Integrated MetaMask and WalletConnect
-- Role-based access for Merchants and Users
+### 🔸 **TaskSync** – Task Manager App  
+A responsive, cross-platform productivity app for managing personal tasks and team projects.  
+- Built with **React**, **Tailwind CSS**, and **Firebase**
+- Features: CRUD operations, real-time updates, Google Auth
 
-### 🔹 **NFT Marketplace**
-> Fully functional NFT platform for minting, buying, and selling digital assets.
-- Built smart contracts with **Solidity**
-- Integrated **IPFS** for decentralized storage
-- Frontend with **React** and **Tailwind CSS**
-- Connected via **Ethers.js**
+### 🔸 **EcomLite** – Mini eCommerce Web App  
+A lightweight, fully responsive eCommerce solution for small businesses.  
+- Stack: **React**, **Node.js**, **MongoDB**, **Express**
+- Supports: Cart, Orders, Payment Gateway (Paystack Integration)
 
-### 🔹 **DAO Voting App**
-> Decentralized Autonomous Organization with governance voting.
-- Users can create proposals and vote using governance tokens
+### 🔸 **BlogNexus** – Developer Blog Platform  
+A markdown-based blog system for devs to share technical posts.  
+- Built using **Next.js** + **TypeScript**
+- Featured features: custom markdown parser, syntax highlighting, dark mode
+
+---
+
+## 🧱 Web3 Project Highlights
+
+### 🔹 **DappPay** – Decentralized Payment Gateway  
+A Web3 gateway enabling Ethereum-based payments for merchants.  
+- Stack: **Solidity**, **Hardhat**, **React**, **Ethers.js**
+- Wallet support: **MetaMask**, **WalletConnect**
+
+### 🔹 **NFT Marketplace**  
+A platform to mint, list, and trade NFTs on Ethereum testnets.  
+- Stack: **Solidity**, **IPFS**, **React**, **Web3.js**
+
+### 🔹 **DAO Voting App**  
+Governance app to vote on-chain with ERC-20 governance tokens.  
 - Built with **Solidity**, **Hardhat**, and **Next.js**
-- Uses **Snapshot-like** voting logic
-
-### 🔹 **Crypto Price Tracker**
-> Real-time cryptocurrency dashboard
-- Built using **React** and **CoinGecko API**
-- Displays live market data, price changes, and historical charts
 
 ---
 
@@ -66,30 +74,32 @@
 
 ## 🛠️ My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> Programming Languages
+### Programming Languages
 
 <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%23363636.svg?style=plastic&logo=solidity&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> Web Development
+### Frontend Development
 
 <p align="center"> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=plastic&logo=ethereum&logoColor=white">
-  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%23F16822.svg?style=plastic&logo=web3.js&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> Tools & Technologies
+### Web3 & Blockchain
 
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=plastic&logo=ethereum&logoColor=white">
+  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%23F16822.svg?style=plastic&logo=web3.js&logoColor=white">
+  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers.js-%233C3C3D.svg?style=plastic&logo=ethers&logoColor=white">
   <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=plastic&logo=hardhat&logoColor=black">
   <img alt="Truffle" src="https://img.shields.io/badge/Truffle-%235C4033.svg?style=plastic&logo=truffle&logoColor=white">
   <img alt="MetaMask" src="https://img.shields.io/badge/MetaMask-%23F69923.svg?style=plastic&logo=metamask&logoColor=white">
